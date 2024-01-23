@@ -1,7 +1,7 @@
 /*
  * Module uses an ultrasonic distance sensor to detect
  * whether a servo should be turned or not.
- * Created by: James Couse
+ * Created by: Emmanuel Fofeyin
 */
 
 #include <Servo.h>
